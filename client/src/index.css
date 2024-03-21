@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.block_screen {
+    height: calc(100vh - 56px);
+}
